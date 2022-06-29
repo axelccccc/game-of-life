@@ -24,8 +24,8 @@ Usage
 game-of-life [-p <particle>] [-a <alignment>] <file.txt>
 ```
 
-`-p` : Character to be used as cell graphics
-`-a` : Alignment of seed file in display (center, top-left, bottom-right, ...)
-file.txt : seed file
+`-p` : Character to be used as cell graphics\n
+`-a` : Alignment of seed file in display (center, top-left, bottom-right, ...)\n
+`file.txt` : seed file
 
 > Some example seed files are included in the `assets` folder
